@@ -1,4 +1,4 @@
-# SmartOffer Dataset
+# SmartOffer
 该仓库为RDA（Recruitment Document Analyzer）项目开源数据集。
 
 ## RDA 模型框架图
